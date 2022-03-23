@@ -1,0 +1,4 @@
+4) Eplain about render in Mounting phase?
+
+
+    => The render() method is required, and is the method that actually outputs the HTML to the DOM.
